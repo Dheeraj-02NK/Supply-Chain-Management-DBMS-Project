@@ -1,10 +1,12 @@
 # DBMS-Lab
 DBMS lab with Mini project
 
+### Lab Programs
 * Library DB
 * Order DB
 * Movie DB
 * College DB
 * Company DB
 
-* Supply Chain Management- Mini Project
+### Mini Project
+* Supply Chain Management
